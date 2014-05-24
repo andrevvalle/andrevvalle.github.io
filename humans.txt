@@ -1,0 +1,18 @@
+/* TEAM */
+
+	Front-End Developer: André Valle
+	Contact: andrevvalle@gmail.com
+	Twitter: @andrevalle1
+	Github: andrevvalle
+	From: Brasil, Rio de Janeiro.
+		
+
+/* SITE */
+
+	Last update:2014/05/24
+	Doctype:HTML5
+
+/* TECHNOLOGY COLOPHON */
+	
+	HTML5, CSS3,
+    jQuery, Modernizr
