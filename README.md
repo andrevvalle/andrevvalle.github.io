@@ -12,37 +12,45 @@ My name is André valle. Working as Front-End Developer, I'm 21 years old and I 
 
 1. Install [Git](http://git-scm.com/downloads) and [Ruby](http://www.ruby-lang.org/pt/downloads/), in case you don't have them yet.
 
-2. Once installed these dependencies, open up the terminal and clone the project:
+2. Once these dependencies installed, _Fork_ for your GitHub.
+
+3. Open up the terminal and _Clone_ the project:
 
   ```sh
-  $ git clone git@github.com:andrevvalle/andrevvalle.github.io.git
+  $ git clone git@github.com:_YouUserName_/andrevvalle.github.io.git
   ```
 
-3. Navigate to the project folder:
+4. Navigate to the project folder:
 
   ```sh
   $ cd andrevvalle.github.io
   ```
 
-4. Now let's install the [npm](https://www.npmjs.org/) dependencies:
+5. Now let's install the [npm](https://www.npmjs.org/) dependencies:
 
   ```sh
   $ npm install
   ```
 
-5. Run [Grunt](http://gruntjs.com/):
+6. Run [Grunt](http://gruntjs.com/):
 
   ```sh
   $ grunt
   ```
 
-6. Make your changes and _Push_ project
+7. Make your changes and then _Commit_:
+  
+  ```sh
+  $ git commit -a -m "YOU COMMIT"
+  ```
+
+8. Now, _Push_ the project.
   
   ```sh
   $ git push origin master
   ```
 
-7. Now send a _PullRequest_
+9. Sign In to your github and send your _PullRequest_
 
 
 ## Browser Support
