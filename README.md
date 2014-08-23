@@ -6,7 +6,7 @@
 
 ### About me
 
-My name is André valle. Working as Front-End Developer, I'm 21 years old and I live in the city of Rio de Janeiro, Brazil :)
+My name is André valle. Working as Front-End Engineer, I'm 21 years old and I live in the city of Rio de Janeiro, Brazil :)
 
 ***feel free to contribute to my site:***
 
