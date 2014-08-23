@@ -1,6 +1,6 @@
 /* TEAM */
 
-	Front-End Developer: André Valle
+	Front-End Engineer: André Valle
 	Contact: andrevvalle@gmail.com
 	Twitter: @andrevalle1
 	Github: andrevvalle
@@ -9,8 +9,7 @@
 
 /* SITE */
 
-	Last update:2014/05/24
-	Doctype:HTML5
+	Last update:2014/08/23
 
 /* TECHNOLOGY COLOPHON */
 	
