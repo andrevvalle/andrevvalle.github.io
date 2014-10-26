@@ -2,7 +2,7 @@
   "name": "andrevvalle.github.io",
   "version": "0.0.1",
   "description": "Front-End Developer Andre Valle",
-  "main": "index.js",
+  "main": "",
   "dependencies": {
     "grunt-cli": "^0.1.13"
   },
@@ -10,6 +10,7 @@
     "grunt": "^0.4.5",
     "grunt-contrib-connect": "^0.8.0",
     "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-jshint": "^0.10.0",
     "grunt-contrib-less": "^0.11.3",
     "grunt-contrib-uglify": "^0.5.0",
     "grunt-contrib-watch": "^0.6.1"
