@@ -41,7 +41,7 @@ My name is André valle. Working as Front-End Engineer, I'm 21 years old and I l
 7. Make your changes and then _Commit_:
   
   ```sh
-  $ git commit -a -m "YOU COMMIT"
+  $ git commit -a -m "YOUR COMMIT MESSAGE"
   ```
 
 8. Now, _Push_ the project.
