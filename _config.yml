@@ -6,9 +6,9 @@ bio: "Hi, I'm a developer from Rio de Janeiro, Brasil."
 external-image: true
 picture: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/0ae/37d/2472e69.jpg'
 
-url: http://andrevvalle.github.io/
+url: http://andrevvalle.github.io
 
-permalink: /:Software Developer/Web Javascript from Rio de Janeiro./
+permalink: /Software Developer/Web Javascript from Rio de Janeiro./
 
 markdown: kramdown
 highlighter: rouge
@@ -21,15 +21,15 @@ disqus: andrevvalle
 # if you don't have any of social below, comment the line
 facebook: andrevvalle
 twitter: andrevalle1
-# google: mygoogle
 instagram: andrevvalle
-# pinterest: mypinterest
 linkedin: andrevvalle
+github: andrevvalle
+email: andrevvalle[@]gmail[dot]com
+# google: mygoogle
+# pinterest: mypinterest
 # youtube: myyoutube
 # spotify: myspotify
-github: andrevvalle
 # medium: medium
-email: andrevvalle[@]gmail[dot]com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -41,11 +41,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+about: false
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
