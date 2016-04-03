@@ -13,7 +13,7 @@ permalink: /Software Developer/Web Javascript from Rio de Janeiro./
 markdown: kramdown
 highlighter: rouge
 
-analytics-google: ''
+analytics-google: 'UA-51322118-1'
 
 # if you don't want comments in your posts, set to false
 disqus: andrevvalle
