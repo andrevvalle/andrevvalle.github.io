@@ -3,7 +3,6 @@ title: About
 layout: page
 permalink: /about/index.html
 ---
-![Profile Image]({{ 'https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/e35/12729499_990289781036819_1893192683_n.jpg?ig_cache_key=MTE4NDIyMjM4NjE2MjI4NzUwNw%3D%3D.2' }})
 
 <p>Hi, I'm André Vitor, a developer from Rio de Janeiro, Brasil. I love the intersection between design and code along with creating performant front-end code.</p>
 
