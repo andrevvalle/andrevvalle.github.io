@@ -49,7 +49,8 @@ layout: compress
     <script type="text/javascript">
         var elMail = document.querySelector('.mailto');
         var linkMail = document.querySelector('.mailto').getAttribute('data-title').replace('[@]', '@').replace('[dot]', '.');
-        elMail.addEventListener('click', function(){
+        elMail.addEventListener('click', function(e){
+            e.preventDefault();
             window.location.href = "mailto:" + linkMail;
         })
     </script>
