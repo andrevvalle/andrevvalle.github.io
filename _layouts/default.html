@@ -45,6 +45,13 @@ layout: compress
     {% include icons.html %}
 
     {% include analytics-google.html %}
-
+    
+    <script type="text/javascript">
+        var elMail = document.querySelector('.mailto');
+        var linkMail = document.querySelector('.mailto').getAttribute('data-title').replace('[@]', '@').replace('[dot]', '.');
+        elMail.addEventListener('click', function(){
+            window.location.href = "mailto:" + linkMail;
+        })
+    </script>
 </body>
 </html>
